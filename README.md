@@ -1,1 +1,1 @@
-# argocd
+Example of ArgoCD
